@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamilla</h1>
-<h3 align="center">A passionate Data Specialist from Hungary</h3>
+<h3 align="center">Freelance Data Scientist and Data Analyst</h3>
 
 - 📫 How to reach me **radeczkikamilla@hotmail.com**
 
